@@ -1,4 +1,4 @@
-## Bem Vindo! Eu sou Lucas
+## Seja bem vindo ao meu cantinho particular!
 
 <p>
 Oi, como você pode ver em algum local desta tela, meu nome é Lucas. Atualmente estou no ultimo ano do curso de Engenharia de Software. Considero-me um desenvolvedor fullstack, mas confesso ter a alma de gerente de projetos. Já desenvolvi sistemas em diversas linguagens, mas a minha principal é Java. Durante os últimos 5 anos, tenho realizado estudos voltados para a utilização da tecnologia na resolução de problema, desenvolvendo sistemas robustos e seguros do projeto e documentação ao desenvolvimento e implementação. Quando penso em sistemas, penso em uma solução para resolver problemas, mas penso também em uma obra de arte que receberá minha assinatura e representará o meu trabalho. Este perfil tambem é meu portfolio, seja bem vindo e sinta-se livre para explorar, analisar e usar qualquer codigo que desejar. Os projetos secretos estão privados...
